@@ -4,10 +4,10 @@
     "slug": "covid-19",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons8-covid-64.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icons8-covid-64.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
